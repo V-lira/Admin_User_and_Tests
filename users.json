@@ -1,0 +1,11 @@
+[
+    {
+        "address": "Moscow 5",
+        "full_name": "Petya Pavel Petrovich",
+        "login": "Petya",
+        "password_hash": "afa81fed725c4e1cebae101a643e03d02367d1502cbc96baea632cad5c406ba9",
+        "phone": "77543858",
+        "results": [],
+        "salt": "50931a4de081b5aaa142da7d3bf3cccd"
+    }
+]

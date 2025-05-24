@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Matika",
+    "questions": [
+      {
+        "text": "2 + 2?",
+        "answers": [
+          { "text": "67", "correct": false },
+          { "text": "4", "correct": true },
+          { "text": "123", "correct": false },
+          { "text": "22", "correct": false }
+        ]
+      },
+      {
+        "text": "76+3?",
+        "answers": [
+          { "text": "70", "correct": false },
+          { "text": "79", "correct": true },
+          { "text": "53", "correct": false },
+          { "text": "41", "correct": false }
+        ]
+      },
+      {
+        "text": "345+2",
+        "answers": [
+          { "text": "546", "correct": false },
+          { "text": "765", "correct": false },
+          { "text": "346", "correct": false },
+          { "text": "347", "correct": true }
+        ]
+      },
+      {
+        "text": "1+0?",
+        "answers": [
+          { "text": "1", "correct": true },
+          { "text": "0", "correct": false },
+          { "text": "9", "correct": false },
+          { "text": "5", "correct": false }
+        ]
+      }
+    ]
+  }
+]
